@@ -49,7 +49,7 @@
 {{--                                    <div id="my-signin2" class="mr-3"></div>--}}
                                     <a href="{{ url('login/facebook') }}" class="btn-success btn-sm">Login With FB</a>
                                     <a href="{{ url('login/google') }}" class="btn-primary btn-sm">Login With Google</a>
-                                    <a href="{{ url('login/github') }}" class="btn-info btn-sm">Login With Github</a>
+                                    <a href="{{ url('login/github') }}" class="btn-warning btn-sm">Login With Github</a>
                                 </div>
                             </div>
                         </div>
